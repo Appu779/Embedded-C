@@ -1,3 +1,9 @@
+/*
+    Program for evaluate the quadratic equation by capturing co-efficients from user
+    @author: Vaishnav Krishna
+    @date: 2022-02-16
+*/
+
 #include<stdio.h>
 #include<math.h>
 
